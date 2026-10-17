@@ -1,0 +1,17 @@
+body
+{
+    background-color: chartreuse;
+}
+/* becuase here chatbot is class we are writting . */
+.chatbot{
+    width: 500px;;
+    max-width: 90%;
+    margin:auto;
+}
+button{
+    background-color: rgb(47, 0, 255);
+    color:white;
+    padding: 20px 30px;
+    border:none;
+    border-radius: 9px;
+}

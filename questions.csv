@@ -1,0 +1,22 @@
+questions,intent
+"When are the semester exams?",exam_schedule
+"When does the final examination start?",exam_schedule
+"What is the date of the semester examination?",exam_schedule
+"When will the end-semester exams be held?",exam_schedule
+"Where can I check the examination schedule?",exam_schedule
+"When are the midterm exams?",exam_schedule
+"When will the exam timetable be released?",exam_schedule
+"Can I see the schedule for upcoming exams?",exam_schedule
+"What are the dates for the upcoming examinations?",exam_schedule
+"When is my next university exam?",exam_schedule
+"When will my end term will endup and holidays begin?",exam_schedule
+"when will my results will out?",exam_results
+"what can be the passing grade?",exam_results
+"To achive the o grade what are the resouces i should follow?",study_material
+"where i can found the previous year question of all the subjects according to the current syllabus?",exam_resource
+"where i can found the notes of the realted subject with examples and practice questions",study_material
+"When will the mid semester exams begin?",exam_schedule
+"Has the final exam timetable been released?",exam_schedule
+"When is the next examination scheduled?",exam_schedule
+"Where can I see the semester exam dates?",exam_schedule
+"When will our end semester exams take place?",exam_scheduleq
